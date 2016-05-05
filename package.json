@@ -33,7 +33,7 @@
     "docs": "yuidoc ."
   },
   "dependencies": {
-    "pngjs-image": "~0.11.5",
+    "pngjs-image": "https://github.com/heidmotron/pngjs-image/tarball/master",
     "preceptor-core": "~0.10.0",
     "promise": "6.0.0"
   },
